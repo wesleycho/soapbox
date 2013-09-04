@@ -4,4 +4,4 @@ pkg/
 .DS_Store
 **/*.swp
 node_module/
-lib/assets/javascripts/
+vendor/bower/
