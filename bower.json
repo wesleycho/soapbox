@@ -1,0 +1,14 @@
+{
+  "name": "soapbox",
+  "version": "0.0.1",
+  "main": "/",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular-latest": "v1.2.0rc1",
+    "angular-ui-bootstrap": "https://github.com/angular-ui/bootstrap/archive/bootstrap3_bis.tar.gz"
+    "bootstrap-sass": "3.0.0"
+  }
+}

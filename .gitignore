@@ -1,0 +1,7 @@
+.bundle/
+log/*.log
+pkg/
+.DS_Store
+**/*.swp
+node_module/
+lib/assets/javascripts/
