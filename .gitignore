@@ -5,3 +5,4 @@ pkg/
 **/*.swp
 node_module/
 vendor/bower/
+Gemfile.lock
