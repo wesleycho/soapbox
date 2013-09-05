@@ -3,6 +3,6 @@ log/*.log
 pkg/
 .DS_Store
 **/*.swp
-node_module/
+node_modules/
 vendor/bower/
 Gemfile.lock
